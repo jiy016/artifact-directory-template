@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+<Think, Search, Correct: A Self-Reflection Mechanism for Adaptive Tool-Use Agents>
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+<An LLM that enhanced multi-step reasoning, fact judges, and reduces hallucinations using a self judge-reflective structure>
